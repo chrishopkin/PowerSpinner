@@ -495,8 +495,8 @@ class PowerSpinnerView : AppCompatTextView, LifecycleObserver {
     if (this.spinnerWindow.isShowing) {
       binding.recyclerView.post {
         this.spinnerWindow.update(
-                binding.recyclerView.width,
-                binding.recyclerView.height
+          binding.recyclerView.width,
+          binding.recyclerView.height
         )
       }
     }
