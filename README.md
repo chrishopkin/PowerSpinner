@@ -22,7 +22,7 @@
 
 ## Including in your project
 [![Download](https://api.bintray.com/packages/devmagician/maven/powerspinner/images/download.svg) ](https://bintray.com/devmagician/maven/powerspinner/_latestVersion)
-[![JitPack](https://jitpack.io/v/skydoves/PowerSpinner.svg)](https://jitpack.io/#skydoves/PowerSpinner) <br>
+[![JitPack](https://jitpack.io/v/chrishopkin/PowerSpinner.svg)](https://jitpack.io/#chrishopkin/PowerSpinner) <br>
 
 ### Gradle
 Add below codes to your **root** `build.gradle` file (not your module build.gradle file).
